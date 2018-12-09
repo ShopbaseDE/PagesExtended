@@ -50,3 +50,11 @@ $tabs = array(
 >Step 3
 
 Install plugin and reload backend.
+
+## Requirements
+
+> Typo3 6.2 or higher
+
+> Full backend access
+
+> Access to install tool
